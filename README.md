@@ -1,16 +1,42 @@
-## Hi there 👋
+![unnamed (29)](https://github.com/user-attachments/assets/22fbd668-23d4-4846-a920-6823bc2d64b4)
 
-<!--
-**Treasure62-faith/Treasure62-faith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi👋, I'm Olafare Joshua
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Full-Stack Developer | Graphic Designer
+🎨 Passionate about UI/UX & Frontend Development
+💼 Open to work & collaborations with you
+
+🌍 About Me
+🔭 I recently completed Full-Stack Development training at Torilo Academy
+🌱 Currently learning advanced backend with Django
+⚡ I specialize in building responsive, user-friendly, and scalable web applications
+🎯 Looking for: Frontend or Full-Stack Developer internship opportunities
+
+Frontend:
+HTML
+CSS
+JavaScript
+React
+
+Backend:
+Python
+Django
+
+Tools & Platforms:
+Git
+GitHub
+Figma
+Vercel
+Postman
+Render
+Behance
+
+![Treasure62-faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treasure62-faith&show_icons=true&theme=radical)
+
+📫 Connect With Me
+https://www.linkedin.com/in/olafare-josh-a7a165347/
+olafarejoshua08@gmail.com
+
+🚀 Let's build Next Level websites together! Feel free to connect!
